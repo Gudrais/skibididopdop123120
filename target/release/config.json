@@ -1,0 +1,9 @@
+{
+    "aimbot_enabled": true,
+    "esp_enabled": true,
+    "speedhack_enabled": false,
+    "fov": 90.0,
+    "kmbox_ip": "192.168.2.188",   // IP address of KMBox (second PC will connect here)
+    "kmbox_port": 8808,             // Port for KMBox connection
+    "kmbox_uuid": "071F5C53"       // KMBox UUID
+}
